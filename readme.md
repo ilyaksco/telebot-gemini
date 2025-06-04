@@ -68,7 +68,7 @@
     * Catat **URL Proyek** dan **Kunci API `service_role`** dari menu "Project Settings" > "Data API". 
 
 5.  **Buat Berkas `.env`:**
-    * Kembali ke konsol Bash (di dalam direktori `telebot-gemini-multimodal`).
+    * Kembali ke konsol Bash (di dalam direktori `telebot-gemini`).
     * Buat berkas bernama `.env`:
         ```bash
         nano .env
@@ -100,7 +100,7 @@
 
 ## Konfigurasi Tambahan (Opsional via `config.py`)
 
-kalian dapat menyesuaikan perilaku bot dengan mengedit file `config.py`:
+kalian dapat menyesuaikan bot dengan mengedit file `config.py`:
 
 * **`GEMINI_SYSTEM_INSTRUCTION`**: Ubah instruksi sistem dasar untuk AI Gemini.
 * **`GEMINI_MODEL_NAME`**: Ganti model Gemini utama yang digunakan (misal: `gemini-2.0-flash`).
