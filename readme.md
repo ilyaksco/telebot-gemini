@@ -42,7 +42,7 @@
 3.  **Buat dan Aktifkan Lingkungan Virtual (Virtual Environment):**
     * Sangat disarankan untuk menggunakan lingkungan virtual:
         ```bash
-        python3.10 -m venv myenv 
+        python3 -m venv myenv 
         ```
     * Aktifkan lingkungan virtual:
         ```bash
