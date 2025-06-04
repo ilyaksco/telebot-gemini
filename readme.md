@@ -7,7 +7,7 @@
 * Dapat berfungsi di grup, merespons jika di reply atau di triger dengan perintah khusus (misalnya `/ai`, `/ask`).
 * Perintah khusus untuk meminta AI berpikir/menalar.
 * Menyimpan riwayat chat per pengguna di Supabase, sehingga konteks tidak hilang saat bot di-restart.
-* Banyak aspek bot dapat dikonfigurasi melalui file `config.py` dan `.env`.
+* Banyak aspek bot dapat dikonfigurasi melalui file `config.py`.
 
 ## Persyaratan
 
